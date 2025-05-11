@@ -21,9 +21,9 @@ The following **optional** features are implemented:
 
 ## GIF Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a link to the walkthrough of implemented features:
 
-<img src='https://imgur.com/a/HdzqbLE' title='Gif Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/HdzqbLE
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif]  
