@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a link to the walkthrough of implemented features:
 
-https://imgur.com/a/HdzqbLE
+https://imgur.com/a/E86WPkS.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif]  
